@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "37412247496",
+    "project_id": "independentdata-c17bf",
+    "storage_bucket": "independentdata-c17bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37412247496:android:a6c4105dc4fce3b081d2fd",
+        "android_client_info": {
+          "package_name": "com.example.independentdata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37412247496-3eum86v987d0it45adloq7tba01jj38h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvVsUy3H0Wp3356Er7e1sjqYPZjHwFHD8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37412247496-3eum86v987d0it45adloq7tba01jj38h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
